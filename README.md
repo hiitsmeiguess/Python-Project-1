@@ -14,3 +14,6 @@ and you must use the licence at the top
 
 FOSS RULES!!!
 =============
+
+Please submit positive feedback and suggestions to add or remove features in this repo.  
+Please submit negative feedback at satyan@microsoft.com
